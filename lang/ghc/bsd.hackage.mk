@@ -460,6 +460,7 @@ text-icu_port=			devel/hs-text-icu
 threads_port=			devel/hs-threads
 threadscope_port=		devel/hs-threadscope	# executable
 time-compat_port=		devel/hs-time-compat
+time_port=		devel/hs-time
 timezone-olson_port=		devel/hs-timezone-olson
 timezone-series_port=		devel/hs-timezone-series
 tls_port=			security/hs-tls
