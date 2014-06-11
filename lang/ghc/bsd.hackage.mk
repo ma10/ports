@@ -333,6 +333,7 @@ network-protocol-xmpp=		net/hs-network-protocol-xmpp
 NumInstances_port=		math/hs-NumInstances
 ObjectName_port=		devel/hs-ObjectName
 oeis_port=			www/hs-oeis
+old-locale_port=			devel/hs-old-locale
 OpenAL_port=			audio/hs-OpenAL
 OpenGL_port=			x11-toolkits/hs-OpenGL
 OpenGLRaw_port=			x11-toolkits/hs-OpenGLRaw
