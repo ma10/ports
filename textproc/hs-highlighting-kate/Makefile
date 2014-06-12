@@ -9,7 +9,7 @@ COMMENT=	Syntax highlighting
 
 LICENSE=	GPLv2
 
-USE_CABAL=	blaze-html>=0.4.2 mtl parsec regex-pcre-builtin
+USE_CABAL=	blaze-html>=0.4.2 mtl parsec regex-pcre-builtin utf8-string
 
 FLAGS_DEFINE=			EXECUTABLE
 
