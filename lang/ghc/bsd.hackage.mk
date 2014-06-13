@@ -169,7 +169,6 @@ fclabels_port=			devel/hs-fclabels
 fgl_port=			devel/hs-fgl
 file-embed_port=		devel/hs-file-embed
 filemanip_port=			devel/hs-filemanip
-filepath_port=			devel/hs-filepath
 filestore_port=			devel/hs-filestore
 filesystem-conduit_port=	devel/hs-filesystem-conduit
 filesystem-trees_port=		devel/hs-filesystem-trees
