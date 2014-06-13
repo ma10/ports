@@ -131,7 +131,6 @@ date-cache_port=		devel/hs-date-cache
 datetime_port=			devel/hs-datetime
 DAV_port=			www/hs-DAV
 DeepArrow_port=			devel/hs-DeepArrow
-deepseq_port=			devel/hs-deepseq
 derive_port=			devel/hs-derive
 dia-base_port=			graphics/hs-dia-base
 dia-functions_port=		graphics/hs-dia-functions
