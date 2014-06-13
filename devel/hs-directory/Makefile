@@ -9,7 +9,7 @@ COMMENT=	library for directory handling
 
 LICENSE=	BSD
 
-USE_CABAL=	filepath>=1.3 time>=1.4 unix>=2.5.1
+USE_CABAL=	filepath>=1.3 unix>=2.5.1
 
 .include "${.CURDIR}/../../lang/ghc/bsd.cabal.mk"
 .include <bsd.port.mk>
