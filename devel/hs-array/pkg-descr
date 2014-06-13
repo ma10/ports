@@ -1,6 +1,0 @@
-In addition to providing the Data.Array module as specified in the
-Haskell 2010 Language Report, this package also defines the classes
-IArray of immutable arrays and MArray of arrays mutable within
-appropriate monads, as well as some instances of these classes.
-
-WWW: http://hackage.haskell.org/package/array

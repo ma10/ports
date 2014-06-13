@@ -23,7 +23,6 @@ angel_port=			sysutils/hs-angel
 ansi-terminal_port=		devel/hs-ansi-terminal
 ansi-wl-pprint_port=		devel/hs-ansi-wl-pprint
 appar_port=			textproc/hs-appar
-array_port=			devel/hs-array
 arrows_port=			devel/hs-arrows
 asn1-data_port=			devel/hs-asn1-data
 asn1-types_port=		devel/hs-asn1-types
