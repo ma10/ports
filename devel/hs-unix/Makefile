@@ -9,7 +9,7 @@ COMMENT=	POSIX functionality
 
 LICENSE=	BSD
 
-USE_CABAL=	bytestring>=0.9.2 time>=1.2
+USE_CABAL=	time>=1.2
 
 .include "${.CURDIR}/../../lang/ghc/bsd.cabal.mk"
 .include <bsd.port.mk>
